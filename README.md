@@ -1,5 +1,5 @@
 # Musiky
-
+ 
 > *Music made together, paid apart.*
 
 A web + Android workspace for independent musicians and small teams to manage a release end-to-end: track uploads, royalty splits, distribution status, expense ledger, revenue per platform, and the per-collaborator payouts that follow.
